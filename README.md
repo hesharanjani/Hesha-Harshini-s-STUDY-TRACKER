@@ -18,6 +18,13 @@ Study Tracker is a comprehensive Flask-based web application that helps students
 - pip (Python package installer)
 - SQLite (included with Python)
 
+## How to use our study tracker
+- find and download 4 parts of Study-Trackerproj zip files and combine them together (you can ask chatgpt to combine them to a single zip file).
+- extract the zip file
+- open the folder in vs code
+- install the requirements,flask and other packages
+- run and enjoy using our study tracker
+
 ### Setup Instructions
 
 1. **Clone the repository**:
